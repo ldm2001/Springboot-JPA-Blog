@@ -1,5 +1,5 @@
-# 스프링부트로 블로그 게시판 만들기
-##  STS4로 제작
+# 스프링부트로 블로그 게시판 만들기 
+##  스프링 부트 프레임워크 공부하여 게시판 제작 (STS4)
     - 의존성 설정
     - MySQL 스프링 연결
     - lombok 설정
@@ -16,3 +16,5 @@
     - 회원정보 수정하기
     - 댓글 작성하기 (Dto, 네이티브 쿼리)
     - 댓글 삭제하기
+![alt text](<image/Spring Board Page1.jpeg>)
+![alt text](<image/Spring Board Page2.jpeg>)
